@@ -29,7 +29,7 @@ fatalities. Analysis shows that 69% of the pedestrian accidents happened in dry 
 while 30% happened in wet or damp road surface conditions. There was also no physical crossing
 facility within 50 miles for 62% of the pedestrian accidents.
 
-##Summary:
+## Summary
 This analysis of 2019 Road Safety Data for England reveals higher male casualty rates among drivers, increased weekend accidents, and significant pedestrian casualties in urban areas, especially among seniors.
 
 Road Accident Analysis - United Kingdom
