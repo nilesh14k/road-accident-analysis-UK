@@ -29,8 +29,3 @@ towns and rural areas. Senior citizens aged between 70-80 years old accounted fo
 fatalities. Analysis shows that 69% of the pedestrian accidents happened in dry road surface conditions
 while 30% happened in wet or damp road surface conditions. There was also no physical crossing
 facility within 50 miles for 62% of the pedestrian accidents.
-
-## Summary
-This analysis of 2019 Road Safety Data for England reveals higher male casualty rates among drivers, increased weekend accidents, and significant pedestrian casualties in urban areas, especially among seniors.
-
-Road Accident Analysis - United Kingdom
